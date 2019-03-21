@@ -1,3 +1,5 @@
+[![Release](https://jitpack.io/v/mobjex/fineract-cn-crypto.svg)](https://jitpack.io/#mobjex/fineract-cn-crypto)
+
 # Apache Fineract CN Crypto Tools
 
 ## Abstract
